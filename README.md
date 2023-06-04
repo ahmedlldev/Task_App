@@ -1,4 +1,4 @@
-# Task-App
+# MERN Task App
 
 **Full Stack MERN Task App**
 
